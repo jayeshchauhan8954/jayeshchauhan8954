@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/JayeshC10551206" target="blank"><img src="https://img.shields.io/twitter/follow/swatish07079513?logo=twitter&style=for-the-badge" alt="JayeshC10551206" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JayeshC10551206" target="blank"><img src="https://img.shields.io/twitter/follow/JayeshC10551206?logo=twitter&style=for-the-badge" alt="JayeshC10551206" /></a> </p>
 
 - 🌱 I’m currently learning **nextjs, C++, Architecture**
 
