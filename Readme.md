@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **officialjitandrachauhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1upX97DzTauMLzwBnSqKufw-6E4l5Tk5T/view?usp=sharing](https://drive.google.com/file/d/1upX97DzTauMLzwBnSqKufw-6E4l5Tk5T/view?usp=sharing)
+- 📄 Know more about me and my skills [https://drive.google.com/file/d/1upX97DzTauMLzwBnSqKufw-6E4l5Tk5T/view?usp=sharing](https://drive.google.com/file/d/1upX97DzTauMLzwBnSqKufw-6E4l5Tk5T/view?usp=sharing)
 
 ### 1. Blogs posts
 <!-- BLOG-POST-LIST:START -->
